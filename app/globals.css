@@ -76,3 +76,12 @@ body {
     background-position: 0% 50%;
   }
 }
+
+/* Hide Next.js dev indicator badge */
+[data-nextjs-toast] {
+  display: none !important;
+}
+
+[data-nextjs-dialog-header] {
+  display: none !important;
+}

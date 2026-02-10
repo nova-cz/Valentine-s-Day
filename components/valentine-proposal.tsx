@@ -12,7 +12,7 @@ import { CelebrationScreen } from "@/components/celebration-screen";
 // CUSTOMIZE: Replace the photo path with your own couple photo
 // Put your photo in /public folder, e.g. /public/couple-photo.jpg
 // ====================================================================
-const COUPLE_PHOTO = "./vday-photos/1.jpg";
+const COUPLE_PHOTO = "/vday-photos/1.JPG";
 
 // ====================================================================
 // CUSTOMIZE: Change the proposal question and subtitle text
